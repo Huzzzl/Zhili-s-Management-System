@@ -18,6 +18,8 @@ Note: JAVA version: 17
 ![image](https://github.com/user-attachments/assets/0181721f-3a42-4ae9-a81f-f48bb059aee8)
 ![image](https://github.com/user-attachments/assets/87d57f25-9b2e-4486-9175-625a664af349)
 ![image](https://github.com/user-attachments/assets/50996ef4-203a-49ed-ab77-8e94a9f50bd4)
+![image](https://github.com/user-attachments/assets/c30f6175-ef19-4fb0-bdf1-a031c2124dd1)
+
 
 
 Relevant technical details:
